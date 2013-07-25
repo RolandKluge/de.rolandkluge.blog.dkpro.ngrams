@@ -1,4 +1,4 @@
-de.rolandkluge.blog.dkpro.ngrams
-================================
+This project demonstrates how to use DKPro Core components for n-gram generation.
 
-Working with n-grams in DKPro Core
+See <http://blog.roland-kluge.de/?p=379>
+
